@@ -1,0 +1,1 @@
+stow -d ~/Projects/hyprlandrice-vedius/ -t ~/ dotfiles
